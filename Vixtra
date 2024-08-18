@@ -1,7 +1,7 @@
 
 {
     "name": "Vixtra",
-    "description": "Currently Undergoing Bunny Port | Rewrite Version: 0.3",
+    "description": "Currently Undergoing Bunny Port | Rewrite Version: 0.4",
     "authors": [
         {
             "name": "VioletStorm",
@@ -9,6 +9,9 @@
         }
     ],
 "spec": 2,
++  "plus": {
++    "version": 0
++  }
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#E6A8FF"
