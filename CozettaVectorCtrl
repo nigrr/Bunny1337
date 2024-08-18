@@ -1,5 +1,4 @@
-```
-     "fonts":{
+"fonts":{
         "ABCGintoNord-ExtraBold": "https://github.com/slavfox/Cozette/releases/download/v.1.25.1/CozetteVector.ttf?raw=1",
         "ggsans-Bold": "https://github.com/slavfox/Cozette/releases/download/v.1.25.1/CozetteVector.ttf?raw=1",
         "ggsans-BoldItalic": "https://github.com/slavfox/Cozette/releases/download/v.1.25.1/CozetteVector.ttf?raw=1",
@@ -19,4 +18,3 @@
         "NotoSans-Semibold": "https://github.com/slavfox/Cozette/releases/download/v.1.25.1/CozetteVector.ttf?raw=1",
         "SourceCodePro-Semibold": "https://github.com/slavfox/Cozette/releases/download/v.1.25.1/CozetteVector.ttf?raw=1"
       }
-```
