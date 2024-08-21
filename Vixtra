@@ -1,7 +1,7 @@
 
 {
     "name": "Vixtra",
-    "description": "Currently Undergoing Bunny Port | Rewrite Version: 0.3.8",
+    "description": "Currently Undergoing Bunny Port | Rewrite Version: 0.3.9",
     "authors": [
         {
             "name": "VioletStorm",
@@ -229,3 +229,7 @@
         "alpha": 1.0
         }
 }
++  "plus": {
++    "version": 0
++  }
+ }
