@@ -1,6 +1,6 @@
 {
    "name":"Vixtra",
-   "description":"Currently Undergoing Bunny Port | Rewrite Version: 0.3.13",
+   "description":"Currently Undergoing Bunny Port | Rewrite Version: 0.4",
    "authors":[
       {
          "name":"VioletStorm",
@@ -20,6 +20,15 @@
       ],
       "TEXT_MUTED":[
          "#6F517C"
+],
+"TEXT_LINK": [
+  "#E1A4F9"
+],
+"TEXT_PRIMARY": [
+  "#FF5666"
+],
+"TEXT_SECONDARY": [
+  "#6F517C"
       ],
       "INTERACTIVE_NORMAL":[
          "#AC80BF"
@@ -95,9 +104,6 @@
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER":[
          "#AC80BF"
-      ],
-      "TEXT_LINK":[
-         "#E1A4F9"
       ],
       "TEXT_DANGER":[
          "#E9438B"
